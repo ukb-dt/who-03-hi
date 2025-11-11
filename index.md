@@ -53,5 +53,5 @@
 ```
 
 > *“This isn’t AI for AI’s sake.  
-> This is **your evidence, your language, your impact**—made [faster](https://ukb-dt.github.io/who-03-hi-00/), fairer, scalable.”*
+> This is **your evidence, your language, your impact**—made [faster](https://ukb-dt.github.io/who-03-ideal-rate/), fairer, scalable.”*
 
