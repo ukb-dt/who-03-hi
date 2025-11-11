@@ -59,45 +59,5 @@ Here’s our **three-panel, 90-second intro**, drop-in ready for Day 1, 9:00 AM 
 ```
 
 > *“This isn’t AI for AI’s sake.  
-> This is **your evidence, your language, your impact**—made faster, fairer, scalable.”*
+> This is **your evidence, your language, your impact**—made [faster](), fairer, scalable.”*
 
----
-
-### Delivery Flow (90 seconds)
-1. **Slide 1** (30s): *Read it aloud. Pause on “Limitations.”* Let the pain land.
-2. **Slide 2** (40s): *Point to each layer.* “This is where AI helps. Not all at once. One breath at a time.”
-3. **Slide 3** (20s): *End with the invariant.* “These never change. The *how* does. And that starts now.”
-
----
-
-### [Why This Works](https://ukb-dt.github.io/who-03-claude/)
-- **No philosophy overload**: Okubona is *mentioned*, not explained. It earns its mythos later.
-- **No tech flex**: OpenEvidence is a *tool*, not a hero. Keeps focus on **officer agency**.
-- **No Western tilt**: India-first, language-agnostic, equity-native.
-- **No fluff**: 3 slides, 12 lines, 100 words. Fits in memory. Fits in a jeep.
-
----
-
-### Next: The Ritual Ignition
-After Slide 3, **kill the deck**.  
-Hand each officer a **seed card** (physical, printed):
-
-```
-Your burning question?
-[____________________________]
-
-Ukubona listens. Day 1 begins.
-```
-
-They write. You collect.  
-You feed the first 5 into Ukubona live.  
-50 abstracts in 3 minutes.  
-The forest **starts growing**.
-
----
-
-This is your **Sankofa Spine** in action:  
-*Go back (Human Intelligence) → Fetch it (AI Powered) → Return stronger (WHO-India)*.
-
-You don’t need 7 slides.  
-You need **3 truths, 1 ritual, and 1 forest**.
