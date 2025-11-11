@@ -1,10 +1,4 @@
-## A Simple, Scalable Intro: From Human Intelligence to WHO-India’s Living Forest
-
-Just **clarity, hierarchy, and resonance** for WHO-India officers who already know the stakes. This intro isn't a pitch. It's a **mirror**. They see their own process, then see it *augmented*—not replaced.
-
-Here’s our **three-panel, 90-second intro**, drop-in ready for Day 1, 9:00 AM sharp. One slide per panel. Zero jargon. Maximum signal.
-
----
+## From Human Intelligence to WHO-India’s Needs
 
 ## Slide 1: Human Intelligence  
 *(The way we’ve always done it. The way they live it.)*
