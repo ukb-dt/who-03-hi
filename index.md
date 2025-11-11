@@ -50,11 +50,14 @@
     → policy speed 
     → PRISMA, equity 
     → 700+ officers
-- Journal & language agnostic: 
+- Journal & language agnostic
     → Hindi, Tamil, etc (eg OpenEvidence only accesses NEJM, JAMA: Journals in English)
     → Grey lit 
     → Field notes
-- Literature most relevant to India: NCDs, TB, AYUSH, UHC
+- Literature most relevant to India 
+    → NCDs
+    → TB
+    → AYUSH, UHC
 ```
 
 > *“This isn’t AI for AI’s sake.  
